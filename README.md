@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Xuân Linh
 - 👀 Thank you for watching
 - 🌱 I’m currently learning Front-end
-- 
 
 <!---
 xulidinh88/xulidinh88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
